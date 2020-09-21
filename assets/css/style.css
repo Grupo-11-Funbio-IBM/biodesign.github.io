@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #18d26e;
+  color: #6fedf6;
   transition: 0.5s;
   text-decoration: none;
 }
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #18d26e;
+  background: #6fedf6;
   color: #fff;
   width: 44px;
   height: 44px;
