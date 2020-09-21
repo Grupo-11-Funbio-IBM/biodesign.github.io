@@ -21,7 +21,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #18d36e;
+  color: #1af0ed;
   outline: none;
   text-decoration: none;
 }
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #6fedf6;
+  background: #1af0ed;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
-  border-left: 4px solid #18d26e;
+  border-left: 4px solid #1af0ed;
 }
 
 #header .logo a {
@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #18d26e;
+  color: #1af0ed;
 }
 
 .nav-menu .drop-down > a:after {
