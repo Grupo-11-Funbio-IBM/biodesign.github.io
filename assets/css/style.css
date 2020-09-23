@@ -816,13 +816,13 @@ section {
 }
 
 #call-to-action h3 {
-  color: #fff;
+  color: #4e4032;
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action p {
-  color: #fff;
+  color: #fbfaf3;
 }
 
 #call-to-action .cta-btn {
@@ -836,13 +836,13 @@ section {
   border-radius: 25px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #4e4032;
+  color: #fbfaf3;
 }
 
 #call-to-action .cta-btn:hover {
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: #4e4032;
+  border: 2px solid #4e4032;
 }
 
 /* Call To Action Section
@@ -1503,7 +1503,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #4e4032;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
