@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background:#4e4032 ;
-  color: #fbfaf3;
+  background:#fbfaf3 ;
+  color: #000000;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #fff;
+  color: #4e4032;
 }
 
 @media (max-width: 768px) {
@@ -139,11 +139,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
-  border-left: 4px solid #1af0ed;
+  border-left: 4px solid #e54f34;
 }
 
 #header .logo a {
-  color: #fff;
+  color: #e54f34;
 }
 
 #header .logo img {
@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #18d26e;
+  color: #07646b;
 }
 
 /*--------------------------------------------------------------
