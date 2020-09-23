@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-transparent {
-  background: transparent;
+  background:#4e4032;
 }
 
 #header.header-scrolled {
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0;
-  background: #fff;
+  background: #fbfaf3;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -510,11 +510,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fbfaf3;
-  background: #089eaf;
+  background: #e54f34;
 }
 
 #intro .btn-get-started:hover {
-  background: #fff;
+  background: #0000;
   color: #07646b;
 }
 
@@ -1503,14 +1503,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #4e4032;
+  background: #41362a;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #4e4032;
+  background: #41362a;
   padding: 60px 0 30px 0;
 }
 
