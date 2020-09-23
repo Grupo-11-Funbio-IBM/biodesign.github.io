@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #4e4032;
+  color: #fbfaf3;
 }
 
 @media (max-width: 768px) {
@@ -139,11 +139,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
-  border-left: 4px solid #fbfaf3;
+  border-left: 4px solid #e54f34;
 }
 
 #header .logo a {
-  color: #e54f34;
+  color: #fbfaf3;
 }
 
 #header .logo img {
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: #fbfaf3;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -509,8 +509,8 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  color: #fff;
-  background: #18d26e;
+  color: #fbfaf3;
+  background: #089eaf;
 }
 
 #intro .btn-get-started:hover {
@@ -1260,11 +1260,11 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #ddd;
+  background-color: #fbfaf3;
 }
 
 #testimonials .owl-dot.active {
-  background-color: #18d26e;
+  background-color: #07646b;
 }
 
 /* Team Section
