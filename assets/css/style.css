@@ -118,15 +118,16 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 26px 0;
-  background: rgba(0, 0, 0, 0.9) #4e4032;
+  background: rgba(0, 0, 0, 0.9) ;
 }
 
 #header.header-transparent {
-  background:#4e4032;
+  background:#transparent;
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.9)  ;
+   background: #3d362e;
   padding: 18px 0;
 }
 
@@ -1503,14 +1504,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #41362a;
+  background: #3d362e;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #41362a;
+  background: #3d362e;
   padding: 60px 0 30px 0;
 }
 
