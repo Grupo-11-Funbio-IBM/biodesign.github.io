@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #e54f34;
+  background: #3d362e;
   color: #4e4032;
   width: 44px;
   height: 44px;
@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #fbfaf3;
+  color: #000000;
 }
 
 .nav-menu .drop-down > a:after {
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .carousel-item::before {
   content: '';
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 #intro .carousel-container {
@@ -555,7 +555,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #18d26e;
+  background: #07646b;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -658,7 +658,7 @@ section {
 }
 
 #featured-services h4 a:hover {
-  color: #4e4032;
+  color: #e54f34;
 }
 
 #featured-services p {
